@@ -1,5 +1,5 @@
 # 💫 About Me:
-Professional side:<br>  📚 I'm a actual student of Epitech Techology<br>  👨‍💻 I'm in internship at Yalink<br><br>Personal side:<br>  💪 I practice many sports like:  🥋   🚴   🧗‍♀️  🏊‍♂️<br>  🎮 I love video games, both solo and competitive.<br>  🔴 I stream on Twitch<br>  🔍 I love learning new things.
+Professional side:<br> &ensp; 📚 I'm a actual student of Epitech Techology<br> &ensp; 👨‍💻 I'm in internship at Yalink<br><br>Personal side:<br> &ensp; 💪 I practice many sports like:  🥋   🚴   🧗‍♀️  🏊‍♂️<br> &ensp; 🎮 I love video games, both solo and competitive.<br> &ensp; 🔴 I stream on Twitch<br> &ensp; 🔍 I love learning new things.
 
 
 ## 🌐 Socials:
