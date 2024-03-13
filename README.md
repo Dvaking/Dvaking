@@ -1,5 +1,12 @@
 # 💫 About Me:
-Professional side:<br> &ensp; 📚 I'm a actual student of Epitech Techology<br><br>Personal side:<br> &ensp; 💪 I practice many sports like:  🥋   🚴   🧗‍♀️  🏊‍♂️<br> &ensp; 🎮 I love video games, both solo and competitive.<br> &ensp; 🔴 I stream on Twitch<br> &ensp; 🔍 I love learning new things.
+Professional side:
+<br> &ensp; 📚 I'm a actual student of Epitech Techology
+<br> &ensp; 📚 I've been learning programming for 3 years 
+<br><br>Personal side:
+<br> &ensp; 💪 I practice many sports like:  🥋   🚴   🧗‍♀️  🏊‍♂️
+<br> &ensp; 🎮 I love video games, both solo and competitive.
+<br> &ensp; 🔴 I stream on Twitch
+<br> &ensp; 🔍 I love learning new things.
 
 
 ## 🌐 Socials:
