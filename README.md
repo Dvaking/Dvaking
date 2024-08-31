@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ • About Me:
 Professional side:
 <br> &ensp; 📚 I'm a actual student of Epitech Techology
 <br> &ensp; 📚 I've been learning programming for 3 years 
@@ -9,10 +9,11 @@ Professional side:
 <br> &ensp; 🔍 I love learning new things.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-mendia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Dvaking_) 
+# 🌐 • Socials:
+[![Twitch](https://img.shields.io/badge/twitch-badge?style=for-the-badge&logo=Twitch&logoColor=white&color=purple)](https://twitch.tv/Dvaking_) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/marc-mendia)
 
-# 💻 Tech Stack:
+# 💻 • Tech Stack:
 **Language, Framework, other:** <br><br>
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://fr.wikipedia.org/wiki/C_(langage))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://fr.wikipedia.org/wiki/C%2B%2B)
@@ -38,7 +39,8 @@ Professional side:
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/fr/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 <br>
-# 📊 GitHub Stats:
+
+# 📊 • GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dvaking&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaking&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
