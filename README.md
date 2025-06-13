@@ -10,7 +10,6 @@ Professional side:
 
 
 # 🌐 • Socials:
-[![Twitch](https://img.shields.io/badge/twitch-badge?style=for-the-badge&logo=Twitch&logoColor=white&color=purple)](https://twitch.tv/Dvaking_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-badge?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/marc-mendia)
 
 # 💻 • Tech Stack:
