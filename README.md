@@ -36,7 +36,7 @@ Professional side:
 [![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 ![ReactNative](https://img.shields.io/badge/react%20native-badge?style=for-the-badge&logo=react&color=blue&link=https%3A%2F%2Freactnative.dev%2F)
 
-**OPS**
+**OPS:**
 
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/download/)
 [![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
@@ -45,18 +45,18 @@ Professional side:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-**CI/CD**
+**CI/CD:**
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/actions)
 
-**Server OP and config**
+**Server** (*OP and config*):
 
 [![Fedora Server](https://img.shields.io/badge/Fedora%20Server-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-8B1F3A?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 [![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
-**Operating system**
+**Operating system:**
 
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://fr.wikipedia.org/wiki/Linux)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
@@ -64,7 +64,7 @@ Professional side:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
-**Software**
+**Software:**
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/fr/)
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
